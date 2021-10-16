@@ -1,3 +1,5 @@
+If you want to test the application, you can click this link [snapchat-clone-c44e0.web.app](https://snapchat-clone-c44e0.web.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
